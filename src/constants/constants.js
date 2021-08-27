@@ -5,8 +5,8 @@ export const projects = [
       "This is my personal portfolio made on ReactJS which is fully responsive and it has the toggle feature of dark/light mode.",
     image: "/images/1.png",
     tags: ["React.js", "JavaScript", "CSS", "HTML"],
-    source: "https://github.com/ahmadsohail404/Neuromorphism-Portfolio-ReactJS",
-    visit: "https://ahmadsohail404.github.io/Neuromorphism-Portfolio-ReactJS/",
+    source: "https://github.com/ahmadsohail404/Neuromorphic-React-Portfolio",
+    visit: "https://ahmadsohail404.github.io/Neuromorphic-React-Portfolio/",
     id: 0,
   },
   {

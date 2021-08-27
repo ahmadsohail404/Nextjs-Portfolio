@@ -4,19 +4,19 @@ export const projects = [
     description:
       "This is my personal portfolio made on ReactJS which is fully responsive and it has the toggle feature of dark/light mode.",
     image: "/images/1.png",
-    tags: ["React.js", "JavaScript", "CSS", "HTML"],
-    source: "https://github.com/ahmadsohail404/Neuromorphic-React-Portfolio",
-    visit: "https://ahmadsohail404.github.io/Neuromorphic-React-Portfolio/",
+    tags: ["React.js","Next.js", "JavaScript", "CSS", "HTML"],
+    source: "https://github.com/ahmadsohail404/Nextjs-Portfolio",
+    visit: "https://ahmadsohail404.github.io/Nextjs-Portfolio/",
     id: 0,
   },
   {
-    title: "Keeper App",
+    title: "Neuromorphic UI Portfolio",
     description:
-      "This is a todo app called as 'Keeper App' which is build on React.js and makes good use of components, mapping, props, hooks, spread operator, component tree and so on.",
+      "This portfolio is made with ReactJS and is based on the Neuromorphic UI",
     image: "/images/2.png",
     tags: ["React", "JavaScript", "Css", "HTML"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://github.com/ahmadsohail404/Neuromorphic-React-Portfolio",
+    visit: "https://ahmadsohail404.github.io/Neuromorphic-React-Portfolio/",
     id: 1,
   },
   {

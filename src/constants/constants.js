@@ -36,7 +36,7 @@ export const projects = [
     image: "/images/4.jpg",
     tags: ["HTML", "CSS", "JavaScript"],
     source: "https://github.com/ahmadsohail404/dark-ui-clock/",
-    visit: "ahmadsohail404.github.io/dark-ui-clock/",
+    visit: "https://ahmadsohail404.github.io/dark-ui-clock/",
     id: 3,
   },
 ];
